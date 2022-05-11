@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kaleoyster
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Image Classification
+- 👋 Hi, I’m Akshay @kaleoyster
+- 👀 I’m interested in Computer Sciencey stuff. 
+- 📚 I’m currently a Ph.D. Student at University of Nebraska at Omaha
 - 💞️ I’m looking to collaborate on ML / AI projects
 - 📫 How to reach me at akale@unomaha.edu
 
