@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay @kaleoyster
-- 👀 I’m interested in Computer Sciencey stuff. 
+- 👀 I’m interested in Computer Science. 
 - 📚 I’m currently a Ph.D. Student at University of Nebraska at Omaha
 - 💞️ I’m looking to collaborate on ML / AI projects
 - 📫 How to reach me at akale@unomaha.edu
