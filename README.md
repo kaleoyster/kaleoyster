@@ -1,7 +1,8 @@
 
 
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi!, I am <a href="https://github.com/kaleoyster">Akshay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> Hi!, I am Akshay</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15px"></h1>
 </h1>
+<img width="600" height="270" src="https://user-images.githubusercontent.com/7465916/171491986-440b639b-f7be-4174-93f1-b30b95ec4cd6.gif" align=center>
 <!-- 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
@@ -18,7 +19,7 @@
 - 💞️ I’m looking to collaborate on ML / AI projects
 - 📫 How to reach me at akale@unomaha.edu
 
-<img width="490" height="270" src="https://user-images.githubusercontent.com/7465916/171324273-759d7fee-1c27-4ed1-844f-10051829aee5.gif" align=center>
+
 
  <br/><br/>
 
