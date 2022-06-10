@@ -15,7 +15,7 @@
 
 ### About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 - 👀 I’m interested in Computer Science. 
-- 📚 I’m currently a Ph.D. Student at University of Nebraska at Omaha
+- 📚 I’m currently a Ph.D. Candidate at University of Nebraska at Omaha
 - 💞️ I’m looking to collaborate on ML / AI projects
 - 📫 How to reach me at akale@unomaha.edu
 
