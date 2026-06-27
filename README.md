@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:akale@unomaha.edu">
-    <img src="https://img.shields.io/badge/Email-akale%40unomaha.edu-red?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:akshaykale4@icloud.com">
+    <img src="https://img.shields.io/badge/Email-akshaykale4%40icloud.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akshay-kale/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20Kale-blue?style=flat-square&logo=linkedin&logoColor=white" />
